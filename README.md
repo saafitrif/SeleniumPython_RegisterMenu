@@ -1,2 +1,2 @@
-# seleniumpython-automotion_register
-Script automotion register menu (website http://barru.pythonanywhere.com/daftar) using Selenium Python
+Note :
+Automation Testing website http://barru.pythonanywhere.com/daftar pada menu Register dengan Selenium with Python
